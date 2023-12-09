@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-09T20:00:05.370Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="Yy9bLMuK9Ky2CqSc38zG" version="22.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-09T20:14:34.230Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="BcMuIcXmvVIn6y8AhV5U" version="22.1.7" type="github">
   <diagram name="Página-1" id="01Xk7Bp4QnYqnkWpoMOx">
-    <mxGraphModel dx="1257" dy="711" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="880" dy="498" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -9,6 +9,11 @@
         </mxCell>
         <mxCell id="FFpbOJQuNYy9sZldtp6s-2" value="Veterinário" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="690" y="80" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FFpbOJQuNYy9sZldtp6s-26" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="FFpbOJQuNYy9sZldtp6s-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="130" y="120" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="FFpbOJQuNYy9sZldtp6s-3" value="Cadastrar Animal" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="240" width="140" height="70" as="geometry" />
@@ -22,29 +27,53 @@
         <mxCell id="FFpbOJQuNYy9sZldtp6s-8" value="Atualizar Cadastro do Cliente" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="160" width="140" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="FFpbOJQuNYy9sZldtp6s-24" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="FFpbOJQuNYy9sZldtp6s-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="130" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="FFpbOJQuNYy9sZldtp6s-9" value="Cadastrar Cliente" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="80" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="FFpbOJQuNYy9sZldtp6s-10" value="Marcar Consulta" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="320" width="140" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="FFpbOJQuNYy9sZldtp6s-23" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="FFpbOJQuNYy9sZldtp6s-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="705" y="130" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="310" y="490" />
+              <mxPoint x="705" y="490" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="FFpbOJQuNYy9sZldtp6s-11" value="Marcar Exame" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="400" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="FFpbOJQuNYy9sZldtp6s-12" value="Use Case" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FFpbOJQuNYy9sZldtp6s-12" value="Registrar Resultado do Exame" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="80" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="FFpbOJQuNYy9sZldtp6s-13" value="Use Case" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FFpbOJQuNYy9sZldtp6s-13" value="Emitir Receita" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="160" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="FFpbOJQuNYy9sZldtp6s-14" value="Use Case" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FFpbOJQuNYy9sZldtp6s-14" value="Encaminhar para Tratamento" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="240" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="FFpbOJQuNYy9sZldtp6s-15" value="Use Case" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FFpbOJQuNYy9sZldtp6s-15" value="Cadastrar Tratamento" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="320" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="FFpbOJQuNYy9sZldtp6s-16" value="Use Case" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FFpbOJQuNYy9sZldtp6s-16" value="Visualizar Histórico de Consultas" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="400" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="FFpbOJQuNYy9sZldtp6s-25" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="FFpbOJQuNYy9sZldtp6s-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="130" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FFpbOJQuNYy9sZldtp6s-27" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="FFpbOJQuNYy9sZldtp6s-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="130" y="130" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>

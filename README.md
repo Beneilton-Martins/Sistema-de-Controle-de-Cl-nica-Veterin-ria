@@ -6,4 +6,4 @@ O trabalho consiste em:
 2. Para cada Caso de Uso, fazer o detalhamento dos cenários normais e variacionais; 
 3. Fazer o diagrama de Classes em nível conceitual e em nível de implementação;
 4. Escolher 5 funcionalidades mais complexas e fazer, para cada uma delas, os seguintes diagrama;
-    Estado, Atividades, Sequência e Comunicação.
+   Estado, Atividades, Sequência e Comunicação.

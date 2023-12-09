@@ -5,6 +5,5 @@ O trabalho consiste em:
 1.  Fazer o diagrama de Casos de Uso para o Sistema de Controle da Clínica Veterinária (arquivo anexo);
 2.  Para cada Caso de Uso, fazer o detalhamento dos cenários normais e variacionais; 
 3.  Fazer o diagrama de Classes em nível conceitual e em nível de implementação;
-4.  Escolher 5 funcionalidades mais complexas e fazer, para cada uma delas, os seguintes diagramas; 
-    4.1. Estado, Atividades, Sequência e Comunicação.
-5.
+4.  Escolher 5 funcionalidades mais complexas e fazer, para cada uma delas, os seguintes diagramas;
+5.  4.1. Estado, Atividades, Sequência e Comunicação.

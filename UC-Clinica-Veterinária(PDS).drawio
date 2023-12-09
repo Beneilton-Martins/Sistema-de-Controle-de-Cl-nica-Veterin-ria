@@ -1,14 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2023-12-09T23:12:55.810Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="BkEzeAhk9RiUwWuUOPZr" version="22.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-09T23:18:25.451Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="iRqZA0szr3FuhZoniPO2" version="22.1.7" type="github">
   <diagram name="Página-1" id="01Xk7Bp4QnYqnkWpoMOx">
-    <mxGraphModel dx="2580" dy="524" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1600" dy="905" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="FFpbOJQuNYy9sZldtp6s-5" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Sistema de Controle Clínica Veterinária&lt;/span&gt;" style="html=1;whiteSpace=wrap;align=center;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="-910" y="110" width="830" height="582.5" as="geometry" />
+          <mxGeometry x="96.5" y="50" width="770" height="603.75" as="geometry" />
         </mxCell>
         <mxCell id="FFpbOJQuNYy9sZldtp6s-2" value="Veterinário" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
-          <mxGeometry x="905" y="297.5" width="30" height="60" as="geometry" />
+          <mxGeometry x="890" y="297.5" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FFpbOJQuNYy9sZldtp6s-61" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="FFpbOJQuNYy9sZldtp6s-3" target="FFpbOJQuNYy9sZldtp6s-6">
           <mxGeometry relative="1" as="geometry" />
@@ -17,10 +17,10 @@
           <mxGeometry x="130" y="310" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="FFpbOJQuNYy9sZldtp6s-4" value="uc Sistema de Controle Clínica Veterinária" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=270;height=30;" vertex="1" parent="1">
-          <mxGeometry x="3" width="957" height="770" as="geometry" />
+          <mxGeometry x="3" width="957" height="690" as="geometry" />
         </mxCell>
         <mxCell id="FFpbOJQuNYy9sZldtp6s-6" value="Secretária" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="297.5" width="30" height="60" as="geometry" />
+          <mxGeometry x="50" y="297.5" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FFpbOJQuNYy9sZldtp6s-8" value="Atualizar Cadastro" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="430" y="380" width="140" height="70" as="geometry" />

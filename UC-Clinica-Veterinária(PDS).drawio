@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-10T16:21:50.798Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="PbyYHMK9FDlPXFSVh6FO" version="22.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-10T16:41:33.833Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="12KRX0Pu_8MBGihHzbVp" version="22.1.7" type="github">
   <diagram name="Página-1" id="01Xk7Bp4QnYqnkWpoMOx">
     <mxGraphModel dx="1257" dy="711" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -9,6 +9,9 @@
         </mxCell>
         <mxCell id="FFpbOJQuNYy9sZldtp6s-2" value="Veterinário" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="1237" y="537.5" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="q2g5Qw2sh3xrsxrx29LS-4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="FFpbOJQuNYy9sZldtp6s-3" target="FFpbOJQuNYy9sZldtp6s-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FFpbOJQuNYy9sZldtp6s-3" value="Cadastrar Animal" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="467" y="550" width="140" height="70" as="geometry" />

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-10T16:20:23.252Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="6U8_w-cqf_mWTvU96H0X" version="22.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-10T16:21:50.798Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="PbyYHMK9FDlPXFSVh6FO" version="22.1.7" type="github">
   <diagram name="Página-1" id="01Xk7Bp4QnYqnkWpoMOx">
     <mxGraphModel dx="1257" dy="711" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -111,7 +111,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FFpbOJQuNYy9sZldtp6s-62" value="Verificar Cadastro de Cliente" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+        <mxCell id="FFpbOJQuNYy9sZldtp6s-62" value="Verificar Cadastro" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="691" y="420" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="FFpbOJQuNYy9sZldtp6s-64" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=default;endArrow=open;endFill=0;dashed=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;align=center;" parent="1" source="FFpbOJQuNYy9sZldtp6s-10" target="FFpbOJQuNYy9sZldtp6s-62" edge="1">
